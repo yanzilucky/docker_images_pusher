@@ -1,2 +1,3 @@
 jenkins/jenkins:2.414.3-jdk17
 alpine
+jenkins/jenkins:2.440.3-lts
