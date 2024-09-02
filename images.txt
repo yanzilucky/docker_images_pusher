@@ -1,3 +1,5 @@
 jenkins/jenkins:2.414.3-jdk17
 alpine
 jenkins/jenkins:2.440.3-lts
+python:3.7.9
+python:3.10.0
